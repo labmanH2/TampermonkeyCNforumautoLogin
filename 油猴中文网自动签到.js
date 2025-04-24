@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      2025-04-20
 // @description  自动签到脚本
-// @author       You
+// @author       LabmanH2
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @match        https://bbs.tampermonkey.net.cn/
